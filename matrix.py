@@ -14,4 +14,7 @@ print (m[:,1])
 
 print (m[:,2])
 
+#or using your hint
 
+for column in m:
+    print(column)
